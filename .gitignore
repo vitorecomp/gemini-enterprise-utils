@@ -1,0 +1,18 @@
+# Ignore CSV files containing user lists / emails
+*.csv
+*.CSV
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+
+# Environment files
+.env
+.env.*
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
